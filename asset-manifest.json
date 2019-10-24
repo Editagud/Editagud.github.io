@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.4ed482ae.chunk.css",
-    "main.js": "/myapp/static/js/main.c5baa6ab.chunk.js",
-    "main.js.map": "/myapp/static/js/main.c5baa6ab.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.398cb9a6.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.398cb9a6.js.map",
-    "static/css/2.11f871ab.chunk.css": "/myapp/static/css/2.11f871ab.chunk.css",
-    "static/js/2.40b05ee3.chunk.js": "/myapp/static/js/2.40b05ee3.chunk.js",
-    "static/js/2.40b05ee3.chunk.js.map": "/myapp/static/js/2.40b05ee3.chunk.js.map",
-    "index.html": "/myapp/index.html",
-    "precache-manifest.40231c7d98b8d84e0a77303dd0dacc42.js": "/myapp/precache-manifest.40231c7d98b8d84e0a77303dd0dacc42.js",
-    "service-worker.js": "/myapp/service-worker.js",
-    "static/css/2.11f871ab.chunk.css.map": "/myapp/static/css/2.11f871ab.chunk.css.map",
-    "static/css/main.4ed482ae.chunk.css.map": "/myapp/static/css/main.4ed482ae.chunk.css.map",
-    "static/media/bart.png": "/myapp/static/media/bart.c04735e9.png",
-    "static/media/vero.jpeg": "/myapp/static/media/vero.8af1f2ee.jpeg"
+    "main.css": "/static/css/main.4ed482ae.chunk.css",
+    "main.js": "/static/js/main.105a20f1.chunk.js",
+    "main.js.map": "/static/js/main.105a20f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9961378.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9961378.js.map",
+    "static/css/2.11f871ab.chunk.css": "/static/css/2.11f871ab.chunk.css",
+    "static/js/2.40b05ee3.chunk.js": "/static/js/2.40b05ee3.chunk.js",
+    "static/js/2.40b05ee3.chunk.js.map": "/static/js/2.40b05ee3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c2ebfa9a897916f87d469dcdc3e30465.js": "/precache-manifest.c2ebfa9a897916f87d469dcdc3e30465.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.4ed482ae.chunk.css.map": "/static/css/main.4ed482ae.chunk.css.map",
+    "static/media/bart.png": "/static/media/bart.c04735e9.png",
+    "static/media/vero.jpeg": "/static/media/vero.8af1f2ee.jpeg"
   }
 }
