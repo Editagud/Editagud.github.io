@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.4ed482ae.chunk.css",
+    "main.js": "/myapp/static/js/main.c5baa6ab.chunk.js",
+    "main.js.map": "/myapp/static/js/main.c5baa6ab.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.398cb9a6.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.398cb9a6.js.map",
+    "static/css/2.11f871ab.chunk.css": "/myapp/static/css/2.11f871ab.chunk.css",
+    "static/js/2.40b05ee3.chunk.js": "/myapp/static/js/2.40b05ee3.chunk.js",
+    "static/js/2.40b05ee3.chunk.js.map": "/myapp/static/js/2.40b05ee3.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.843c336d2d9e4ce3e8af3ecf72d2d80d.js": "/myapp/precache-manifest.843c336d2d9e4ce3e8af3ecf72d2d80d.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/myapp/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.4ed482ae.chunk.css.map": "/myapp/static/css/main.4ed482ae.chunk.css.map",
+    "static/media/bart.png": "/myapp/static/media/bart.c04735e9.png",
+    "static/media/vero.jpeg": "/myapp/static/media/vero.8af1f2ee.jpeg"
+  }
+}
